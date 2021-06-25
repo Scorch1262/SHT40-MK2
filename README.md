@@ -1,2 +1,7 @@
 # Testboard-SHT40-MK2
-Testboard mit UART Schnittstelle für SHT40 (Temperatur und Luftfeuchtigkeit)
+
+ Funktionen (Software V1.0) [F]:
+- MCC UART Funktion
+- MCC I2C Funktion
+- Ausgabe der Temperatur über UART
+- Ausgabe der Luftfeuchtigkeit über UART
